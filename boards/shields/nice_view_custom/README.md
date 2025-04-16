@@ -1,4 +1,4 @@
-# A nice!view
+# nice!view
 
 The nice!view is a low-power, high refresh rate display meant to replace I2C OLEDs traditionally used.
 
